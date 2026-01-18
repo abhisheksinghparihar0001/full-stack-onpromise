@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Full Stack On-Prem Project</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Full Stack On-Premise Project</h1>
+    </header>
+    <main>
+        <p>This is a sample frontend hosted on Kubernetes with Nginx.</p>
+        <button id="fetch-btn">Fetch Data from Backend</button>
+        <div id="backend-data"></div>
+    </main>
+    <script>
+        document.getElementById('fetch-btn').addEventListener('click', async () => {
+            const res = await fetch('http://backend-service:5000/data');
+            const data = await res.json();
+            document.getElementById('backend-data').innerText = JSON.stringify(data);
+        });
+    </script>
+</body>
+</html>
