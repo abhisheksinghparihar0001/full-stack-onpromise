@@ -3,6 +3,7 @@
 This repository contains a **Full-Stack Application** with **Frontend**, **Backend**, **Reverse Proxy using Nginx**, and **Kubernetes** for orchestration. It uses **Docker** for containerization, **Horizontal Pod Autoscaling (HPA)** for scaling, and is deployed on an **on-premise Ubuntu server**.
 
 ---
+---
 
 ## 🚀 Tech Stack
 
