@@ -16,6 +16,7 @@ This repository contains a **Full-Stack Application** with **Frontend**, **Backe
 - **Infrastructure**: On-Premise Ubuntu Server 💻
 
 ---
+---
 
 ## 🏗 Architecture Overview
 
