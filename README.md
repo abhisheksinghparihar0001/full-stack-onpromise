@@ -20,6 +20,8 @@ This repository contains a **Full-Stack Application** with **Frontend**, **Backe
 
 ## 🏗 Architecture Overview
 
+---
+
 ### 1. **Frontend and Backend Architecture**
 
 - The **Frontend** is built with **HTML** and served by an **Nginx** server. The frontend provides the user interface, allowing users to interact with the backend.
