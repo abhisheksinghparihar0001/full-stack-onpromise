@@ -28,6 +28,8 @@ This repository contains a **Full-Stack Application** with **Frontend**, **Backe
 - The **Backend** is built with **Node.js**, serving RESTful API endpoints to process requests. It is designed to handle business logic, interact with databases, and process data.
 - Both the **Frontend** and **Backend** are packaged as Docker containers, ensuring consistency across development, testing, and production environments.
 
+---
+
 ### 2. **Containerization and Deployment**
 
 - Each service (**Frontend**, **Backend**, and **Nginx**) is containerized using **Docker**, making the system portable and consistent across different environments.
