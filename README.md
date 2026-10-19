@@ -29,6 +29,7 @@ This repository contains a **Full-Stack Application** with **Frontend**, **Backe
 - Both the **Frontend** and **Backend** are packaged as Docker containers, ensuring consistency across development, testing, and production environments.
 
 ---
+---
 
 ### 2. **Containerization and Deployment**
 
