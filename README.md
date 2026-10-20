@@ -36,6 +36,8 @@ This repository contains a **Full-Stack Application** with **Frontend**, **Backe
 - Each service (**Frontend**, **Backend**, and **Nginx**) is containerized using **Docker**, making the system portable and consistent across different environments.
 - These containers are deployed on a **Kubernetes** cluster (using **Minikube** for local setups) to enable scalability, fault tolerance, and easier management of resources.
 
+---
+
 ### 3. **Kubernetes Orchestration**
 
 - **Kubernetes** (with **Minikube** for local environments) is used to manage the deployment, scaling, and networking of the application’s components.
