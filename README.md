@@ -37,6 +37,7 @@ This repository contains a **Full-Stack Application** with **Frontend**, **Backe
 - These containers are deployed on a **Kubernetes** cluster (using **Minikube** for local setups) to enable scalability, fault tolerance, and easier management of resources.
 
 ---
+---
 
 ### 3. **Kubernetes Orchestration**
 
