@@ -46,6 +46,8 @@ This repository contains a **Full-Stack Application** with **Frontend**, **Backe
 - Kubernetes **Deployments** are defined to control the rollout of changes and ensure that the desired number of pods are always running.
 
 ---
+---
+
 ### 4. **Reverse Proxy with Nginx**
 
 - An **Nginx** container is used as a reverse proxy to route traffic between the frontend and backend services.
