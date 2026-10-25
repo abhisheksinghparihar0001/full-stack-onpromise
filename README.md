@@ -56,6 +56,8 @@ This repository contains a **Full-Stack Application** with **Frontend**, **Backe
 - This ensures that users access the application through a single point, making it easier to manage and secure the application.
 
 ---
+---
+
 ### 5. **Scaling and Resource Management with HPA**
 
 - **Horizontal Pod Autoscaler (HPA)** is configured for both the **Frontend** and **Backend** services to automatically scale the application based on CPU utilization.
