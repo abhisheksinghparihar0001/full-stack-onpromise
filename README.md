@@ -22,6 +22,7 @@ This repository contains a **Full-Stack Application** with **Frontend**, **Backe
 
 ---
 ---
+
 ### 1. **Frontend and Backend Architecture**
 
 - The **Frontend** is built with **HTML** and served by an **Nginx** server. The frontend provides the user interface, allowing users to interact with the backend.
@@ -63,6 +64,7 @@ This repository contains a **Full-Stack Application** with **Frontend**, **Backe
 - **Horizontal Pod Autoscaler (HPA)** is configured for both the **Frontend** and **Backend** services to automatically scale the application based on CPU utilization.
   - **HPA** monitors the resource usage and automatically adjusts the number of pods to handle varying load conditions, ensuring efficient resource usage without manual intervention.
   - 
+---
 ---
 
 ### 6. **On-Premise Infrastructure**
