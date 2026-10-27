@@ -63,7 +63,7 @@ This repository contains a **Full-Stack Application** with **Frontend**, **Backe
 
 - **Horizontal Pod Autoscaler (HPA)** is configured for both the **Frontend** and **Backend** services to automatically scale the application based on CPU utilization.
   - **HPA** monitors the resource usage and automatically adjusts the number of pods to handle varying load conditions, ensuring efficient resource usage without manual intervention.
-  - 
+
 ---
 ---
 
